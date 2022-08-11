@@ -1,0 +1,30 @@
+body{
+  background-color: #FCF8E8;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 20%;
+  height: 500px;
+  background-color: #fff;
+  border: 3px solid #76549A;
+  border-radius: 20px;
+  margin-top: 8%;
+}
+
+.fa-battery-quarter{
+  font-size: 8rem;
+  color: #A10035;
+  margin-top: 3%;
+}
+
+h1{
+  font-size: 3rem;
+  color: #A10035;
+  font-weight: bold;
+  margin-top: 1%;
+}
+h3 ,h6 ,.btn{
+  margin-top: 20px;
+}
